@@ -19,6 +19,17 @@ I'm currently expanding that experience into **test automation with Playwright a
 
 ## 🚀 Featured Projects
 
+### [Manual QA Portfolio — Game QA Case Study](https://github.com/kamilkownacki/manual-qa-portfolio)
+
+Fictional Inventory & Crafting case study built to demonstrate practical manual QA work without using confidential project data:
+
+- test plan and risk analysis
+- 20 manual test cases
+- 5 structured bug reports
+- exploratory testing charters
+- focused regression checklist
+- sample test summary and release recommendation
+
 ### [QA Playwright Automation](https://github.com/kamilkownacki/qa-playwright-automation)
 
 Playwright + TypeScript UI automation portfolio for Sauce Demo with:
