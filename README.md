@@ -1,21 +1,42 @@
 # Hi, I'm Kamil 👋
 
-I'm a **QA Tester with 4+ years of experience in game development**, focused mainly on manual testing, bug reporting, regression testing and working closely with development teams throughout the production cycle.
+QA Tester with **4+ years of professional experience**, mainly in game development.
 
-I enjoy improving QA workflows and building small tools that make testing and reporting faster and more structured.
+My background is focused on hands-on QA: functional, regression, sanity, exploratory and acceptance testing, retesting fixes, writing clear bug reports and working with development teams around milestones and releases.
 
-## 🧪 QA Experience
+I'm currently expanding that experience into **test automation with Playwright and TypeScript** and building practical QA tools that combine testing workflows with modern AI.
 
-- 4+ years of experience in game QA
-- Manual & exploratory testing
-- Functional and regression testing
-- Writing clear and reproducible bug reports
-- Jira
-- Testing under milestone and release pressure
-- ISTQB Foundation Level certified
-- Experience testing PC games across different stages of development
+## 🧪 QA & Testing
 
-### Games I've worked on
+- 4+ years in game QA
+- Functional, regression, sanity and exploratory testing
+- Retesting and acceptance testing
+- Jira and structured bug reporting
+- Test planning and coverage thinking
+- Playwright + TypeScript
+- GitHub Actions / CI
+- ISTQB Foundation Level
+
+## 🚀 Featured Projects
+
+### [QA Playwright Automation](https://github.com/kamilkownacki/qa-playwright-automation)
+
+Playwright + TypeScript UI automation portfolio for Sauce Demo with:
+
+- 15 independent automated tests
+- smoke and regression suites
+- Page Object Model
+- linting and strict TypeScript checks
+- GitHub Actions CI
+- QA documentation and validation notes
+
+### [QA Bug Report Assistant](https://github.com/kamilkownacki/qa-bug-report-assistant)
+
+AI-assisted QA tool that turns rough tester notes into structured, editable Jira-ready reports.
+
+The project focuses on a QA-first rule: **missing information stays missing**. It highlights gaps, separates provided information from inference and suggests follow-up investigation instead of inventing facts.
+
+## 🎮 Selected Games I've Worked On
 
 - Drug Dealer Simulator
 - Drug Dealer Simulator 2
@@ -25,35 +46,14 @@ I enjoy improving QA workflows and building small tools that make testing and re
 - MythBusters: The Game
 - Lust from Beyond
 
-## 🛠️ Currently Building
+## 🛠️ Current Focus
 
-### QA Bug Report Assistant
+- growing from manual QA into practical test automation
+- Playwright and TypeScript
+- CI and maintainable automated checks
+- AI-assisted QA workflows
+- building tools that improve bug reporting and tester productivity
 
-An AI-assisted tool that converts short tester notes into structured, Jira-ready bug reports.
+---
 
-The goal is to help QA testers quickly generate:
-
-- clear bug summaries
-- steps to reproduce
-- expected & actual results
-- severity and priority suggestions
-- missing information checks
-- follow-up investigation questions
-
-The project is also an opportunity for me to explore **QA automation, AI-assisted workflows and practical software development**.
-
-## 💡 Interests
-
-- Game QA
-- QA tooling
-- Test automation
-- AI-assisted testing
-- Improving bug reporting workflows
-- Building practical internal tools
-- Software quality
-
-## 🚀 What I'm Learning
-
-I'm currently expanding my technical skills around:
-
-- Git & Git
+I value clear reproduction steps, useful coverage and tools that solve real QA problems rather than adding complexity for its own sake.
