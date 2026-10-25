@@ -1,53 +1,46 @@
-# Hi, I'm Kamil 👋
+# Hi, I'm Kamil
 
-QA Tester with **4+ years of professional experience**, mainly in game development.
+I'm a QA Tester with **4+ years of professional experience**, mostly in game development.
 
-My background is focused on hands-on QA: functional, regression, sanity, exploratory and acceptance testing, retesting fixes, writing clear bug reports and working with development teams around milestones and releases.
+Most of my day to day work has been manual QA: functional testing, regression, sanity checks, exploratory testing, retests, acceptance testing and writing clear bug reports in Jira. I have also worked through busy milestone and release periods, so I am used to testing under time pressure and focusing on the areas that matter most.
 
-I'm currently expanding that experience into **test automation with Playwright and TypeScript** and building practical QA tools that combine testing workflows with modern AI.
+Recently I have been learning test automation with Playwright and TypeScript. I also like building small QA tools when I see a workflow that could be made simpler.
 
-## 🧪 QA & Testing
+## QA & Testing
 
 - 4+ years in game QA
 - Functional, regression, sanity and exploratory testing
 - Retesting and acceptance testing
-- Jira and structured bug reporting
-- Test planning and coverage thinking
+- Jira and bug reporting
+- Test planning and coverage
 - Playwright + TypeScript
 - GitHub Actions / CI
 - ISTQB Foundation Level
 
-## 🚀 Featured Projects
+## Projects
 
-### [Manual QA Portfolio — Game QA Case Study](https://github.com/kamilkownacki/manual-qa-portfolio)
+### [Manual QA Portfolio](https://github.com/kamilkownacki/manual-qa-portfolio)
 
-Fictional Inventory & Crafting case study built to demonstrate practical manual QA work without using confidential project data:
+A fictional game QA case study focused on an Inventory & Crafting feature. I used made up project data so I could show the kind of documentation and test thinking I use without sharing anything from real projects.
 
-- test plan and risk analysis
+It includes:
+
+- a test plan
 - 20 manual test cases
-- 5 structured bug reports
+- 5 bug reports
 - exploratory testing charters
-- focused regression checklist
-- sample test summary and release recommendation
+- a regression checklist
+- a sample test summary with a release recommendation
 
 ### [QA Playwright Automation](https://github.com/kamilkownacki/qa-playwright-automation)
 
-Playwright + TypeScript UI automation portfolio for Sauce Demo with:
-
-- 15 independent automated tests
-- smoke and regression suites
-- Page Object Model
-- linting and strict TypeScript checks
-- GitHub Actions CI
-- QA documentation and validation notes
+A small Playwright and TypeScript project based on Sauce Demo. It covers login, products, cart and checkout flows with 15 automated tests, smoke and regression suites, Page Objects and CI in GitHub Actions.
 
 ### [QA Bug Report Assistant](https://github.com/kamilkownacki/qa-bug-report-assistant)
 
-AI-assisted QA tool that turns rough tester notes into structured, editable Jira-ready reports.
+A tool I made for turning rough tester notes into structured, editable bug reports. It points out missing information, keeps facts separate from assumptions and suggests useful follow up checks before the report is submitted.
 
-The project focuses on a QA-first rule: **missing information stays missing**. It highlights gaps, separates provided information from inference and suggests follow-up investigation instead of inventing facts.
-
-## 🎮 Selected Games I've Worked On
+## Games I've Worked On
 
 - Drug Dealer Simulator
 - Drug Dealer Simulator 2
@@ -57,14 +50,6 @@ The project focuses on a QA-first rule: **missing information stays missing**. I
 - MythBusters: The Game
 - Lust from Beyond
 
-## 🛠️ Current Focus
+## What I'm Working On Now
 
-- growing from manual QA into practical test automation
-- Playwright and TypeScript
-- CI and maintainable automated checks
-- AI-assisted QA workflows
-- building tools that improve bug reporting and tester productivity
-
----
-
-I value clear reproduction steps, useful coverage and tools that solve real QA problems rather than adding complexity for its own sake.
+Right now I am mainly focused on getting better at Playwright and TypeScript, learning more about practical test automation and building small tools that make QA work easier.
